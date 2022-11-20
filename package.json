@@ -12,7 +12,6 @@
   "extensionPack": [ 
     "aaron-bond.better-comments", 
     "adpyke.codesnap", 
-    "almenon.arepl", 
     "christian-kohler.path-intellisense", 
     "cschlosser.doxdocgen", 
     "eamodio.gitlens", 
