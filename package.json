@@ -43,6 +43,7 @@
     "VisualStudioExptTeam.vscodeintellicode", 
     "wayou.vscode-todo-highlight", 
     "wix.vscode-import-cost", 
-    "ZainChen.json"
+    "ZainChen.json",
+    "kisstkondoros.vscode-codemetrics"
   ]
 }
